@@ -1,0 +1,12 @@
+{
+  "name": "vaskiheugen-hw-4",
+  "version": "1.0.0",
+  "description": "Node.js greeting app with CLI, .env and defaults",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.9"
+  }
+}
